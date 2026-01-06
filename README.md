@@ -1,3 +1,3 @@
-This is a Online Quiz Web Application created by me .
+This is a Online Quiz Web Application.
 
 Created by me:)
